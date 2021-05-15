@@ -7,7 +7,7 @@ some of the reports derived in the notebook:
 
 1-
 
-![1](https://user-images.githubusercontent.com/67188835/118378355-f8b4dd00-b5db-11eb-849b-4ac303e1de4f.PNG)
+![1](https://user-images.githubusercontent.com/67188835/118378450-a1fbd300-b5dc-11eb-8f9d-6f89a562c6fb.PNG)
 
 2-
 
