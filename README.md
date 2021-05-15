@@ -5,15 +5,14 @@ In this project, I focused on deriving some insights about the accident trends i
 some of the reports derived in the notebook:
 
 
-1-
+
 
 ![1](https://user-images.githubusercontent.com/67188835/118378355-f8b4dd00-b5db-11eb-849b-4ac303e1de4f.PNG)
 
-2-
+
 
 ![2](https://user-images.githubusercontent.com/67188835/118378356-f94d7380-b5db-11eb-99a5-2c465045d4ca.PNG)
 
-3-
 
 ![3](https://user-images.githubusercontent.com/67188835/118378357-f9e60a00-b5db-11eb-855f-3902a8e61cbb.PNG)
 
