@@ -1,6 +1,6 @@
 # US Accidents Exploratory Data Analysis
 In this project, I focused on deriving some insights about the accident trends in the United States between the years 2016 - 2020. The dataset is taken from kaggle, it has around 3 million records and 47 features.
-dataset : https://www.kaggle.com/sobhanmoosavi/us-accidents
+* dataset : https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 some of the reports derived in the notebook:
 1-
